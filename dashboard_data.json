@@ -1,0 +1,12 @@
+{
+    "projetos": {},
+    "tarefas_diarias": {},
+    "agendamentos": [],
+    "configuracoes": {
+        "lembretes_ativos": true,
+        "modo_lembrete": "Texto",
+        "resumo_diario": true,
+        "resumo_semanal": true,
+        "resumo_mensal": true
+    }
+}
